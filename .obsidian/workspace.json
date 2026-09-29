@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "ca46f44cd1d37031",
+    "type": "split",
+    "children": [
+      {
+        "id": "020efc3d2a3e5933",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "903f908113e91a49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/Σήματα και Συστήματα/Lecture 0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 0"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3eb24ddbfeb69d75",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e6dc15c18699fc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "073fb0118e6fa3bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b5fa805ac8937e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9f866974f7eeacf6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d12fc682dbcbee3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b5a0751638b0987",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0a8d91f426300a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lecture Notes/Σήματα και Συστήματα/Lecture 0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "058c2f9b37a4998a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "last_lecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from last_lecture"
+            }
+          },
+          {
+            "id": "3dd640308700df66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c943484d04c22fd7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3f86f212b6ceac4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "last_lecture.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of last_lecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "903f908113e91a49",
+  "lastOpenFiles": [
+    "Lecture Notes/Σήματα και Συστήματα/Lecture 0.md",
+    "sources/Σήματα και Συστήματα/Σημειώσεις Τάξης/Signals and Systems Lecture 1.pdf",
+    "sources/Σήματα και Συστήματα/Σημειώσεις_Μαθήματος/Sig_Sys_chap_1.pdf",
+    "Lecture Notes/OOP/Lecture 0.md",
+    "sources/Σήματα και Συστήματα/README -- Κ11 Σήματα και Συστήματα.pdf",
+    "sources/Σήματα και Συστήματα/Σημειώσεις_Μαθήματος/Sig_Sys_chap_4.pdf",
+    "sources/Σήματα και Συστήματα/Σημειώσεις_Μαθήματος/τυπολόγιο.pdf",
+    "sources/Σήματα και Συστήματα/Σημειώσεις_Μαθήματος/Sig_Sys_chap_6.pdf",
+    "sources/Σήματα και Συστήματα/Σημειώσεις_Μαθήματος/Sig_Sys_chap_2.pdf",
+    "sources/Σήματα και Συστήματα/Σημειώσεις_Μαθήματος/Sig_Sys_chap_3.pdf",
+    "sources/Σήματα και Συστήματα/Σημειώσεις_Μαθήματος/Παραρτήματα.pdf",
+    "sources/Σήματα και Συστήματα/Σημειώσεις_Μαθήματος/Sig_Sys_chap_5.pdf",
+    "sources/OOP/Σημειώσεις.md",
+    "Lecture Notes/ΠΙθανότητες/Lecture 0.md",
+    "sources/Πιθανότητες.md",
+    "().md",
+    "Kontoyiannis-Toumbis.pdf.md",
+    "www.cgi.uoa.gr/itzmbo/K10.pdf.md",
+    "cgi.uoa.gr/itzmbo/K10.pdf.md",
+    "Welcome.md",
+    "create a link.md",
+    "].md",
+    "last_lecture.md"
+  ]
+}
