@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Σήματα και Συστήματα/Lecture 0.md",
+                "file": "Lecture Notes/Ανάλυση 2/Lecture 0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Notes/Σήματα και Συστήματα/Lecture 0.md",
+                "file": "Lecture Notes/Ανάλυση 2/Lecture 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,6 +188,9 @@
   },
   "active": "903f908113e91a49",
   "lastOpenFiles": [
+    "Lecture Notes/Circuits -lab.md",
+    "Lecture Notes/Ανάλυση 2/Lecture 0.md",
+    "Lecture Notes/Ανάλυση 2",
     "Lecture Notes/Σήματα και Συστήματα/Lecture 0.md",
     "sources/Σήματα και Συστήματα/Σημειώσεις Τάξης/Signals and Systems Lecture 1.pdf",
     "sources/Σήματα και Συστήματα/Σημειώσεις_Μαθήματος/Sig_Sys_chap_1.pdf",
@@ -199,7 +202,6 @@
     "sources/Σήματα και Συστήματα/Σημειώσεις_Μαθήματος/Sig_Sys_chap_2.pdf",
     "sources/Σήματα και Συστήματα/Σημειώσεις_Μαθήματος/Sig_Sys_chap_3.pdf",
     "sources/Σήματα και Συστήματα/Σημειώσεις_Μαθήματος/Παραρτήματα.pdf",
-    "sources/Σήματα και Συστήματα/Σημειώσεις_Μαθήματος/Sig_Sys_chap_5.pdf",
     "sources/OOP/Σημειώσεις.md",
     "Lecture Notes/ΠΙθανότητες/Lecture 0.md",
     "sources/Πιθανότητες.md",
